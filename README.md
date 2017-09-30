@@ -1,4 +1,4 @@
-#Mileston 1
+# Milestone 1
 
 Name: Dibyendu Mondal
 email: dibyendu@gatech.edu
